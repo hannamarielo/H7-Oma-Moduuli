@@ -8,4 +8,4 @@ Moduuli asentaa seuraavat paketit:
 
 Sekä teen muutoksia seuraavien ohjelmien konfiguraatiotiedostoihin:
 
--Gimp, Blender, Inkscape
+- Gimp, Blender, Inkscape
