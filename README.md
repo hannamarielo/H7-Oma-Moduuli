@@ -19,13 +19,13 @@ The best results are expected if the module is deployed in Linux, however it is 
 
 # Contents of the module
 
-/srv/salt    
+```/srv/salt    
 ├── h7_module
 │   └── init.sls
 ├── blender
 │   └── userpref.blend
 └── inkscape
-    └── default.svg
+    └── default.svg```
 
 3 directories, 3 files
 
