@@ -18,7 +18,7 @@ The module is meant for beginner users, for example Linux beginners or general b
 The best results are expected if the module is deployed in Linux, however it is also possible to deploy the module on Windows. To deploy the module, [SaltStack](https://docs.saltproject.io/en/getstarted/) needs to be installed, and a Salt master and Salt minion must be installed (example guide for installing master/minion architecture on Ubuntu can be found [here](https://terokarvinen.com/2018/salt-quickstart-salt-stack-master-and-slave-on-ubuntu-linux/). You will need to download the two configuration files: userpref.blend for Blender and default.svg for Inkscape. You can either put the files in the same location as in the module, or re-define paths for the configuration files. In the h7_module, I have created /blender and /inkscape directories for the configuration files in the /srv/salt/ directory. Create a salt state and paste the contents of the init.sls file into it. Change the pre-defined paths if needed. The paths for userpref.blend and default.svg can wary depending on the OS and distribution. In linux, you can find the location of configuration files for example with [find command](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/) and [locate command](https://linuxize.com/post/locate-command-in-linux/). 
 
 # Contents of the module
-`
+
 /srv/salt    
 ├── h7_module
 │   └── init.sls
@@ -26,7 +26,7 @@ The best results are expected if the module is deployed in Linux, however it is 
 │   └── userpref.blend
 └── inkscape
     └── default.svg
-`
+
 3 directories, 3 files
 
 The h7_module installs the following Multimedia Program packages: 
