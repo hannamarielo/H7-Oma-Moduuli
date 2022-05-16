@@ -60,3 +60,10 @@ Blender configuration:
 
 # Sources for building the module
 
+- Karvinen Tero, Configuration Management Systems 2022, Accessed: https://terokarvinen.com/2021/configuration-management-systems-2022-spring/
+- Karvinen Tero, Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux, Accessed: https://terokarvinen.com/2018/salt-quickstart-salt-stack-master-and-slave-on-ubuntu-linux/
+- Karvinen Tero, Apache User Homepages Automatically – Salt Package-File-Service Example, Accessed: https://terokarvinen.com//2018/apache-user-homepages-automatically-salt-package-file-service-example/
+- Exnihilo Digital, How to Transfer Settings in Blender, Accessed: https://exnihilodigital.com/tutorials/transferring-settings/
+- Eastmanreference, Inkscape Default Document Properties and Canvas Size Tutorial, Accessed: https://eastmanreference.com/inkscape-default-document-properties-and-canvas-size-tutorial
+- SaltStack, Functions, Accessed: https://docs.saltproject.io/en/getstarted/config/functions.html
+- SaltStack, Files, Accessed: https://docs.saltproject.io/en/getstarted/config/files.html
