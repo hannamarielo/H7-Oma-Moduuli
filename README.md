@@ -25,7 +25,7 @@ The best results are expected if the module is deployed in Linux, however it is 
 ├── blender
 │   └── userpref.blend
 └── inkscape
-    └── default.svg```
+    └── default.svg`
 
 3 directories, 3 files
 
